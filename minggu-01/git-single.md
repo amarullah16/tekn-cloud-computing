@@ -17,11 +17,11 @@ $
 
 ## Membuat Repo
 1. Klik tanda + pada bagian atas setelah login, pilih New repo
-   ![alt text](image/repo1.png)
+![alt text](image/repo1.png)
 2. isikan nama, keterangan, serta lisensi
-    ![alt text](image/repo2.png)
+![alt text](image/repo2.png)
 3. click create repository, repo akan dibuat dan bisa diakses menggunakan pola ``https://github.com/username/reponame``
-    ![alt text](image/repo3.png)
+![alt text](image/repo3.png)
 
 ## Clone Repo
 adalah proses untuk menduplikasikan remote repo di Github ke komputer lokal. untuk prosesnya, gunakan perintah berikut:
