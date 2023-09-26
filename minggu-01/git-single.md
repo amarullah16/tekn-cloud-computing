@@ -17,4 +17,5 @@ $
 
 ## Membuat Repo
 1. Klik tanda + pada bagian atas setelah login, pilih New repo
-   
+   ![alt text](image/repo1.png)
+2. 
