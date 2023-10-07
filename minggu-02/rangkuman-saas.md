@@ -48,7 +48,7 @@ Berikut adalah beberapa komponen utama dalam ``arsitektur platform SaaS`` :
 ---
 
 # **SaaS (Software As A Service) Platform Architecture**
-![alt text](0_OXKaGxOoKz6NUURX.jpg)
+![alt text](0_OXKaGxOoKz6NUURX.png)
 
 Adalah sebuah metode pengiriman perangkat lunak di mana vendor menghosting aplikasi di server jarak jauh untuk organisasi sebelum mengirimkan kemampuan aplikasi tersebut ke pengguna akhir organisasi tersebut melalui Internet.
 
