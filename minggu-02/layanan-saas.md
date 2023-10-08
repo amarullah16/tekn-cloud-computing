@@ -52,7 +52,7 @@ Dropbox adalah layanan penyimpanan yang cloud yang memudahkan penggunanya untuk 
 >**4. Peringatan dan Pemberitahuan** : salah satu fitur keamanan yang dimiliki adalah peringatan dan pemberitahuan. Jika ada sesuatu hal yang mencurigakan, seperti peretasan file atau kebocoran data, Dropbox akan memberikan pemberitahuan terkait adanya aktivitas tersebut. User bisa menggunakan fitur ini lewat Dropbox Enterprise.
 ---
 
-#yEd
+# yEd
 ![alt text](10846855836_e02c989bcb_b.jpg)
 Adalah aplikasi cross-platform yang berjalan pada `Windows, Linux, Mac OS, dan platform lainnya yang mendukung Java VM`. yEd dapat digunakan untuk menyusun berbagai jenis diagram, termasuk `diagram alir, diagram jaringan, UML, BPMN, peta pikiran, diagram organisasi, dan diagram hubungan entitas.`
 
