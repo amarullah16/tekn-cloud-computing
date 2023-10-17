@@ -1,6 +1,6 @@
 # Instalasi Apache OfBiz
 >1. **Install Gradle**
-![Alt text](minggu-05/image.png)
+![Alt text](minggu-05/image/image.png)
 
 >2. **Instalasi Apache OfBiz**
 ![Alt text](image/image-1.png)
