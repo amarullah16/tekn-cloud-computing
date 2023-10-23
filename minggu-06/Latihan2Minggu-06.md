@@ -13,14 +13,18 @@
 
 # 2. RESTful API untuk membaca data dari MySQL dan MongoDB tersebut dari Framework Gin
 >**A. Lakukan import modul yang diperlukan di file Go:**
+
 ![Alt text](screenshoot/image26.jpg)
 
 >**B. Buat koneksi ke database MySQL**
+
 ![Alt text](screenshoot/image27.jpg)
 
 >**C. Buat endpoint RESTful API untuk membaca data, misalnya dalam hal ini membaca semua data dari tabel `klasemen`**
+
 ![Alt text](screenshoot/image28.jpg)
 
 >**D. Tambahkan endpoint yang telah dibuat ke router Gin Framework**
+
 ![Alt text](screenshoot/image29.jpg)
 
