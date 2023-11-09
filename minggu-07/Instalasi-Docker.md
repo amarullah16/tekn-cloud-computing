@@ -1,5 +1,4 @@
 # Instalasi Docker
-
 >**1. Double pada aplikasi docker yang akan diinstal, maka proses instalasi Docker akan otomatis dimulai**
 ![Alt text](screenshoot-instalasi/image.png)
 ![Alt text](screenshoot-instalasi/image-1.png)
@@ -20,3 +19,34 @@
 >**6. Setelah selesai melengkapi checkbox yang tadi tersedia, maka tampilan utama Docker akan muncul, dan sudah bisa digunakan**
 ![Alt text](screenshoot-instalasi/image-7.png)
 ![Alt text](screenshoot-instalasi/image-8.png)
+
+# Get Started - Docker
+>**1. Get the app**
+![Alt text](screenshoot-instalasi/image9.png)
+
+>**2. Memastikan isi dari `getting-started-app` yang sudah di clone dari github**
+![Alt text](screenshoot-instalasi/image10.png)
+
+# Membuat App's Image
+
+>**1. Unduh/clone folder `getting-started-app` dari github**
+![Alt text](screenshoot-instalasi/image11.png)
+
+>**2. Buat file dengan nama `Dockerfile` di dalam folder `getting-started-app`**
+![Alt text](screenshoot-instalasi/image12.png)
+
+>**3. Isikan beberapa kode ke dalam file `Dockerfile` yang tadi sudah dibuat**
+![Alt text](screenshoot-instalasi/image13.png)
+
+>**4. Buat image dengan memasukkan perintah berikut dan tunggu prosesnya hingga selesai**
+![Alt text](screenshoot-instalasi/image14.png)
+
+>**5. Setelah proses membuat image selesai, maka selanjutnya adalah memulai app container dengan melakukan perintah berikut ini**
+![Alt text](screenshoot-instalasi/image15.png)
+![Alt text](screenshoot-instalasi/image16.png)
+
+>**6. Setelah berhasil, mencoba membuka alamat `http://127.0.0.1:3000` untuk melihat hasilnya**
+![Alt text](screenshoot-instalasi/image17.png)
+
+>**7. Coba menambahkan beberapa item**
+![Alt text](screenshoot-instalasi/image18.png)
